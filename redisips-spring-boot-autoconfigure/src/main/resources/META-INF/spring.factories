@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.zsl.redisipsspringbootautoconfigure.config.RedisIpsConfiguration,\
+com.zsl.redisipsspringbootautoconfigure.config.CustomConfiguration
